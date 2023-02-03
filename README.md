@@ -6,7 +6,7 @@ In this repo, we'll create a system which trains an model to identify damaged ca
 - Vertex AI endpoints to deploy our model and make live predictions.
 - Vision AI to extract extra information about the images.
 - VIsion AI to detect similar images on the web to help identify fraud.
-- Build a UI and deploy it to Cloud build to make predictions with new data.
+- Build a UI to make predictions with new data.
 
 ## Setup
 

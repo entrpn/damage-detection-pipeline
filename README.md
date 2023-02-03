@@ -107,7 +107,7 @@ Now you can move on to the next steps to get started.
 
     <p align="center"><img src="images/prediction.png"></img></p>
 
-1. Now that our model is deployed to an endpoint, let's call it through an API. First, we need to fetch the endpoint url. Run the following python script..
+1. Now that our model is deployed to an endpoint, let's fetch the endpoint url. Run the following python script..
 
     ```bash
     ENDPOINT_ID=`python vertex-ai-pipeline/fetch_endpoint_url.py`

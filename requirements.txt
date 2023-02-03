@@ -1,0 +1,5 @@
+google-cloud-aiplatform
+kfp
+google-cloud-pipeline-components
+gradio
+google-cloud-vision
